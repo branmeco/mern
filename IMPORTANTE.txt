@@ -1,0 +1,7 @@
+instalar node_modules tanto en el backend como en el frontend por separado
+npm install
+
+EJECUCIÓN DEL PROYECTO
+
+backend : npm run dev
+frontend : npm start
